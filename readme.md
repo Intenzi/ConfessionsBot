@@ -14,7 +14,7 @@ I also freelance custom discord bots so if you have an idea you want to bring to
 - Slash Command `/confess`
     - Sends a confession with an anon # id that is incrementing per confession.
     
-![image](https://user-images.githubusercontent.com/62426443/168413896-2ea78e8f-7c61-437c-ba26-303a476d5baf.png)
+![image](https://user-images.githubusercontent.com/62426443/168413935-7aa9ebb0-53bd-4ccf-ab1d-b152fafa6bd8.png)
 
 
 - Slash Command `/block`
